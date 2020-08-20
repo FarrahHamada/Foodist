@@ -1,0 +1,92 @@
+body{
+  font-family:'lato', sans-serif;
+}
+h1{
+  color: red;
+  text-align: left;
+  font-style: normal;
+  font-size: 40px;
+
+
+
+}
+
+
+h2{
+  color: black;
+  text-align: left;
+  font-style: normal;
+
+}
+h3{
+  text-align: left;
+  font-style: normal;
+  color: gainsboro;
+
+
+}
+
+
+header nav{
+  word-spacing: 10px;
+
+}
+
+nav > a{
+  margin-left: auto;
+  color: gainsboro;
+  font-size: 20px
+
+
+}
+
+img {
+  width: 60%;
+  height: 40%;
+}
+
+article p {
+  width: 60%;
+  height: 40%;
+  line-height: 1.6em;
+
+}
+
+
+
+p::first-letter {
+  font-size: 600%;
+  color: gainsboro;
+  line-height: 60%;
+  width: 0.8em;
+  float: left;
+}
+
+
+
+
+
+article section {
+  text-align: right;
+
+
+}
+article a{
+  text-decoration: none;
+  font-weight: bold;
+  color: red;
+
+
+}
+
+
+
+footer nav{
+ word-spacing: 10px;
+}
+
+footer nav > a{
+  margin-left: auto;
+  color: red;
+  font-size: 20px;
+}
